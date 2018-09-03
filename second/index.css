@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Old+Standard+TT:700');
+
+* {
+  padding: 5px;
+}
+
+.container-one {
+  border: solid black 2px;
+  margin: 5px;
+  display: flex;
+  height: 150px;
+  padding: 10px;
+}
+
+.rectangle-one {
+  width: 20px;
+  background: #8a2be2;
+  float: left;
+  align-self: flex-end;
+  height: 100px;
+  margin: 0;
+}
+
+.rectangle-two {
+  width: 300px;
+  background: #228b22;
+  float: left;
+  margin: 0 30px;
+}
+
+.circle {
+  border-radius: 50%;
+  background: #87ceeb;
+  height: 140px;
+  width: 140px;
+}
+
+.container-two {
+  border: dotted black 3px;
+  margin: 5px;
+  display: flex;
+  height: 150px;
+  padding: 10px;
+  align-items: center;
+}
+
+.full-box {
+  background: #fffacd;
+  width: 90%;
+  height: 100px;
+  margin: 0 auto;
+  box-shadow: 5px 5px 5px #000000;
+}
+
+.container-three {
+  margin: 5px auto;
+  display: flex;
+  height: 150px;
+  padding: 10px;
+  width: 50%;
+  align-items: center;
+  box-shadow: 2px 2px 6px #c0c0c0;
+}
+
+p {
+  font-family: 'Old Standard TT', serif;
+  margin: 0 auto;
+  text-align: center;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
