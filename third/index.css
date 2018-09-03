@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css?family=Didact+Gothic');
+
+* {
+  padding: 0px;
+  margin: 0;
+}
+
+#top {
+  padding: 10px;
+  height: 80px;
+  background: #d8d8d8;
+}
+
+.box {
+  width: 75px;
+  height: 75px;
+  margin: 5px;
+  float: left;
+  background: #4a90e2;
+}
+
+.text-box {
+  padding: 50px;
+}
+
+p {
+  font-family: 'Didact Gothic', sans-serif;
+  font-size: 16px;
+}
+
+section {
+  padding: 10px;
+  height: 80px;
+}
+
+.container-one {
+  background: #4a90e2;
+  height: 100px;
+  width: 100%;
+}
+.container-two {
+  background: #50e3c2;
+  height: 100px;
+  width: 100%;
+}
+.container-three {
+  background: #b8e986;
+  height: 100px;
+  width: 100%;
+}
+.container-four {
+  background: #f8e71c;
+  height: 100px;
+  width: 100%;
+}
