@@ -1,0 +1,26 @@
+* {
+  padding: 0;
+  margin: auto;
+}
+body {
+  background: #d8d8d8;
+}
+
+header {
+  width: 100%;
+  background: #444444;
+  height: 20vh;
+}
+
+.center {
+  background: #efefef;
+  width: 50%;
+  margin: auto;
+  padding: 15px;
+  height: 70vh;
+}
+
+footer {
+  background: #000000;
+  height: 10vh;
+}
